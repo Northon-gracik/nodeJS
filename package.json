@@ -1,0 +1,24 @@
+{
+  "name": "nodeJS",
+  "version": "1.0.0",
+  "description": "Back-end de um CRUD",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "run": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Northon-gracik/nodeJS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Northon-gracik/nodeJS/issues"
+  },
+  "homepage": "https://github.com/Northon-gracik/nodeJS#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
